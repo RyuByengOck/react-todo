@@ -33,6 +33,7 @@
     ]
   },
   "devDependencies": {
+    "eslint": "^5.16.0",
     "acorn": "^7.1.1"
   }
 }
